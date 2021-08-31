@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aodare90
 - 👀 I’m interested in ... UI Design
 - 🌱 I’m currently learning ... Adobe XD, Figma, Framer
-- 💞️ I’m looking to collaborate on ... UI Design projects
 - 📚 I’m currently reading ... The Design of Everyday Things by Don Norman
 - 📫 How to reach me .... LinkedIn 
 
